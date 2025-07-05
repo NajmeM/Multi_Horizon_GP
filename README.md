@@ -21,13 +21,7 @@ A comprehensive deep learning framework for predicting glucose levels at multipl
 - See `requirements.txt` for complete list
 
 
-### Option 1: Quick Install
-```bash
-git clone https://github.com/yourusername/multi-horizon-glucose-prediction.git
-cd multi-horizon-glucose-prediction
-pip install -r requirements.txt
-pip install -e .
-```
+
 ## 📁 Project Structure
 multi-horizon-glucose-prediction/
 ├── src/glucose_prediction/     # Main package
@@ -45,9 +39,10 @@ multi-horizon-glucose-prediction/
 
 ### 📚 Documentation
 
-Installation Guide
-Usage Guide
-Methodology
+- [Installation Guide](docs/installation.md)
+- [Usage Guide](docs/usage.md)
+- [Model Details](docs/methodology.md)
+
 
 ### 🤝 Contributing
 
