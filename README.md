@@ -21,14 +21,13 @@ A comprehensive deep learning framework for predicting glucose levels at multipl
 - See `requirements.txt` for complete list
 
 
-<<<<<<< HEAD
 ### Option 1: Quick Install
 ```bash
 git clone https://github.com/yourusername/multi-horizon-glucose-prediction.git
 cd multi-horizon-glucose-prediction
 pip install -r requirements.txt
 pip install -e .
-=======
+```
 ## 📁 Project Structure
 multi-horizon-glucose-prediction/
 ├── src/glucose_prediction/     # Main package
@@ -70,4 +69,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Author: Najmeh Mohajeri
 Email: nmohajeri@gmail.com
 GitHub: @NajmehM
->>>>>>> 853f524 (add doc files)
