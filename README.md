@@ -23,7 +23,7 @@ A comprehensive deep learning framework for predicting glucose levels at multipl
 
 
 ## 📁 Project Structure
-multi-horizon-glucose-prediction/
+```multi-horizon-glucose-prediction/
 ├── src/glucose_prediction/     # Main package
 │   ├── data/                   # Data processing modules
 │   ├── models/                 # Model implementations
@@ -36,7 +36,7 @@ multi-horizon-glucose-prediction/
 ├── config/                     # Configuration files
 ├── docs/                       # Documentation
 └── main.py                     # Main CLI script
-
+```
 ### 📚 Documentation
 
 - [Installation Guide](docs/installation.md)
